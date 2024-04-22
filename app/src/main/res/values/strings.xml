@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CRUD Realtime</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+</resources>
